@@ -1,0 +1,43 @@
+Spela Spel
+Fortsatt Spel
+Handledning
+Inställningar
+Avsluta Spel
+INSTÄLLNINGAR
+Språk
+Svårighet
+Tangent bindning
+Gå Tillbaka
+Engelska
+Svenska
+Enkelt
+Normal
+Svårt
+Gå Vänster
+Gå Höger
+Hoppa
+Skjuta
+Kasta bomb
+Pausa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

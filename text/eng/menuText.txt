@@ -1,0 +1,42 @@
+Play Game
+Continue Game
+Tutorial
+Settings
+Quit Game
+SETTINGS
+Language
+Difficulty
+Key Bindings
+Go Back
+English
+Swedish
+Easy
+Normal
+Hard
+Walk Left
+Walk Right
+Jump
+Shoot
+Throw bomb
+Pause
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

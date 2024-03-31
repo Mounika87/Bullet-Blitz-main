@@ -1,0 +1,24 @@
+ENG
+TUTORIAL PAUSED
+Continue Tutorial
+End Tutorial
+
+Welcome to Bullet Blitz!
+A Platform shooting game
+The aim of the game is to travel to the end of the level
+while defeating the enemies you will encounter
+This
+Is your player character
+You will be able to move them left or right
+by using either A and D
+Now You Try!
+
+Good Job!
+Now we will teach you how to jump
+If you press W you will be able to jump
+and with it be able to reach lower platforms
+Like this!
+Now you try to jump up to platform on the right!
+Good Job!
+That is all for this tutorial
+Hope you enjoy the rest of the game!
